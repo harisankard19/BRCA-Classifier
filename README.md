@@ -13,4 +13,4 @@ There are 3 models that I have made:
 Notes:
 
 * All 3 use the same UCLA Wisconsin Dataset of Fine Needle Biopsy of BRCA from nearly 540 patients
-* This dataset performs exceptionally well on ML and DL based models, with both giving > 95% on both TRAIN and VALIDATION accuracy in classifying CANCER from NON-CANCER
+* This dataset performs exceptionally well on ML and DL based models, with both giving > 95% accuracy on both TRAIN and VALIDATION data, in distinguishing CANCER from NON-CANCER
